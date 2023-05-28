@@ -1,7 +1,7 @@
 # Hi there, I'm Mahbubul Alam! 👋
 
 ## About Me
-I am a passionate and dedicated Full Stack Web Developer and React Native Developer with a strong background in building dynamic and responsive web applications and mobile apps. I love transforming ideas into functional and user-friendly experiences.
+I'm a self-taught passionate Web Application Developer specialized in MERN Stack Web Development. JavaScript is my native programming language. I use HTML, CSS, and Tailwind to design a perfect responsive website template and give them life using React.JS. I can develop scalable REST APIs using Node.JS, Express.JS and MongoDB and connect them with front-end single page applications. Use Redux for State management & RTK Query for Caching and Revalidation.
 
 ## Skills
 - **Frontend Development:** HTML5, CSS3, JavaScript, React.js

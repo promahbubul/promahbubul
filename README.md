@@ -1,7 +1,7 @@
 # Hi there, I'm Mahbubul Alam! 👋
 
 ## About Me
-I'm a self-taught passionate Web Application Developer specialized in MERN Stack Web Development. JavaScript is my native programming language. I use HTML, CSS, and Tailwind to design a perfect responsive website template and give them life using React.JS. I can develop scalable REST APIs using Node.JS, Express.JS and MongoDB and connect them with front-end single page applications. Use Redux for State management & RTK Query for Caching and Revalidation.
+I am an enthusiastic, self-taught web application developer with a focus on MERN Stack web development. My primary programming language is JavaScript. In order to create the ideal responsive website template, I use HTML, CSS, and Tailwind. I then use React.JS to bring the design to life. Using Node.JS, Express.JS, and MongoDB, I can create scalable REST APIs and connect them to front-end single-page applications. Use RTK Query for Caching and Revalidation with Redux for State management.
 
 ## Skills
 - **Frontend Development:** HTML5, CSS3, JavaScript, React.js

@@ -4,7 +4,7 @@
 
 ## 📈 Current Stats
 
-<img style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com?user=promahbubul&theme=gotham&hide_border=true&background=90%2C271A4A%2C140E2E" />
+<p align="center"><img style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com?user=promahbubul&theme=gotham&hide_border=true&background=90%2C271A4A%2C140E2E" /></p>
 
 ## 📫 Reach me out
 
@@ -28,4 +28,4 @@
 
 - I’m exploring - Advance motion frontend for web. 
 - I’m looking - To collaborate on open source projects. 
--  I'm Learning - To new programming Language. 
+-  I'm Learning - To new. 

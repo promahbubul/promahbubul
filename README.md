@@ -19,10 +19,10 @@
 
 <p align="center">
 <img style="text-align: center; margin: auto; display: inline-block;"
-    src="https://skillicons.dev/icons?i=react,bootstrap,express,tailwind,mongodb,mongoose,dbms,graphql,jest," /></p>
+    src="https://skillicons.dev/icons?i=react,bootstrap,express,tailwind,mongodb,postman,prisma,mysql,graphql,jest," /></p>
 
 <p align="center"><img style="text-align: center; margin: auto; display: inline-block;"
-        src="https://skillicons.dev/icons?i=aws,docker,sql,redux,postgresql,typescript,nextjs,nodejs,js,html,css" /></p>
+        src="https://skillicons.dev/icons?i=aws,docker,redux,postgresql,typescript,nextjs,nodejs,js,html,css" /></p>
 
 ## :eyes: Current overview
 

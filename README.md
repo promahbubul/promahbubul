@@ -22,7 +22,7 @@
     src="https://skillicons.dev/icons?i=react,bootstrap,express,tailwind,mongodb" /></p>
 
 <p align="center"><img style="text-align: center; margin: auto; display: inline-block;"
-        src="https://skillicons.dev/icons?i=nodejs,js,html,css" /></p>
+        src="https://skillicons.dev/icons?i=typescript,nextjs,nodejs,js,html,css" /></p>
 
 ## :eyes: Current overview
 
